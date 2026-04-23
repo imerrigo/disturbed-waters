@@ -50,7 +50,7 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://imerrigo.github.io/disturbed-waters/
+production_url:  https://imerrigo.github.io
 source_url:  https://imerrigo.github.io/disturbed-waters/
 
 exclude:
