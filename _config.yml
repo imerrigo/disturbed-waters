@@ -10,14 +10,14 @@ language: 'en-us'
 name: 'Aquatic Ecology in a Disturbed World'
 description: "Hello and welcome to my personal website, I’m happy to have you here!"
 
-short_url: 'jekyllt.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'imerrigo.github.io/disturbed-waters/'
+google_analytics:
+disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /disturbed-waters
 
 # Permalinks
-permalink: IsabellaErrigo/:imerrigo
+permalink: /:title/
 # permalink: /author/:username
 # permalink: /tag/:tag
 
@@ -45,13 +45,11 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
+username: imerrigo
+repo: disturbed-waters
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://imerrigo.github.io
-source_url:  https://imerrigo.github.io/disturbed-waters/
+production_url:  https://imerrigo.github.io/disturbed-waters
+source_url:  https://imerrigo.github.io/disturbed-waters
 
 exclude:
   - README.md
