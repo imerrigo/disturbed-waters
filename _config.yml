@@ -8,14 +8,13 @@ language: 'en-us'
 
 # Website info
 name: 'Aquatic Ecology in a Disturbed World'
-description: "Hello and welcome to my personal website, I’m happy to have you here!"
 
-short_url: 'imerrigo.github.io/disturbed-waters/'
+short_url: 'imerrigo.github.io/disturbed-waters'
 google_analytics:
 disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /disturbed-waters
-
+url: https://imerrigo.github.io
 # Permalinks
 permalink: /:title/
 # permalink: /author/:username
